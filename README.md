@@ -9,13 +9,6 @@
 
 ---
 
-## 🚀 Projects  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdulrahmanzourob&theme=dark)](https://github.com/abdulrahmanzourob)  
-
-[![Top Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahmanzourob&theme=radical)](https://github.com/abdulrahmanzourob)
-
----
-
 ## 🛠️ Tech Stack  
 🔹 **Operating Systems & Scripting:** Linux, Bash, Python  
 🔹 **Cybersecurity Tools:** Burp Suite, OWASP Top 10, Nmap, Metasploit  

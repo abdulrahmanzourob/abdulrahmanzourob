@@ -10,8 +10,9 @@
 ---
 
 ## 🚀 Projects  
-🔹 [My Obsidian Notes](https://github.com/abdulrahmanzourob/My-Obsidian-Notes) – Personal knowledge base for cybersecurity & pentesting  
-🔹 [Security Research](https://github.com/your-profile/security-research) – Web security research & vulnerability analysis  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdulrahmanzourob&theme=dark)](https://github.com/abdulrahmanzourob)  
+
+[![Top Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahmanzourob&theme=radical)](https://github.com/abdulrahmanzourob)
 
 ---
 
